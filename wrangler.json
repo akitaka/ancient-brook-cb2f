@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "ancient-brook-cb2f",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5c694a90-253b-4d41-acf3-e9a988f2b188",
+      "database_name": "wild-recipe-7130-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
